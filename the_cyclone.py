@@ -1,7 +1,6 @@
 # the_cyclone roller coaster.py
 
 height=int(input('enter the height in cm:'))
-
 credits=int(input('enter the credits:'))
 if height >=137 and credits>=10:
   print("enjoy the ride.")
